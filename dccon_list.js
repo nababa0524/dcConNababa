@@ -17,7 +17,7 @@
 {name:"개돼지.png", keywords:["개돼지"], tags:[]},
 {name:"갸아악,갸아악1.png", keywords:["갸아악","갸아악1"], tags:[]},
 {name:"갸아악2.png", keywords:["갸아악2"], tags:[]},
-{name:"게이븐.png", keywords:["게이븐"], tags:[]},
+{name:"게이븐,게이브,게이브뉴웰.png", keywords:["게이븐","게이브","게이브뉴웰"], tags:[]},
 {name:"계산중.png", keywords:["계산중"], tags:[]},
 {name:"고오스.png", keywords:["고오스"], tags:[]},
 {name:"공포.png", keywords:["공포"], tags:[]},
